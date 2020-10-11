@@ -24,6 +24,9 @@ namespace ProjectOne
 
         private void ShootHead_Click(object sender, EventArgs e)
         {
+            
+            
+            
             PClass.ShootHead();
             //I am excited to play this game
             SoundPlayer sound = new SoundPlayer(ProjectOne.Properties.Resources.GunFire);
